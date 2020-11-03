@@ -5,4 +5,7 @@ naprawa
 zmiana2
 zmiana3
 zmiana4
-Zmiana6
+zmiana5
+testy
+zmiana8
+
