@@ -2,4 +2,6 @@ zmiana1
 prostawersja1
 prostawersja2
 naprawa
+oraz
+prostaWersja
 
